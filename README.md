@@ -91,12 +91,22 @@ The output snapshots in this repository show the model summary, training curves,
 ## Output Snapshots 🖼️
 
 - Sample image from each class
+<img width="1745" height="602" alt="sample image from each class" src="https://github.com/user-attachments/assets/eb0e212b-b624-47a7-8677-10c948ed66b9" />
+
 - CNN model architecture summary
+<img width="823" height="571" alt="CNN  model architecture summary" src="https://github.com/user-attachments/assets/fa3381ef-d25e-4d5b-8450-5565e9422472" />
+
 - Model accuracy and model loss graphs
+<img width="1317" height="522" alt="Model accuracy and Model loss graphs" src="https://github.com/user-attachments/assets/0378ad2f-3291-4d50-8ac0-a8895f8da806" />
+
 - Confusion matrix heatmap
+<img width="702" height="626" alt="Confusion matrix heatmap" src="https://github.com/user-attachments/assets/56fd7656-7e2b-4204-8c59-660d6cc71ab0" />
+
 - Classification report
+<img width="706" height="290" alt="Classificaiton report" src="https://github.com/user-attachments/assets/72eabc80-63c9-4176-afd0-4b14c10b0836" />
 
 ## Project Explanation Video 🎥
+https://github.com/user-attachments/assets/148b2b2d-f5f4-4564-97fe-5e9a6aad7cc6
 
 ## Key Insights 💡
 
